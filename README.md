@@ -15,3 +15,5 @@
 - **work_with_request+APIwebsite**.ipynb - работа с API и данными сайта музея
 
 - **Levene _F-stat_Anova_Tukey**.ipynb - по результату двух тестов проверить гипотезы, проверить статистически различия
+
+- **regression_analysis_exercise**.ipynb
