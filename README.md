@@ -16,4 +16,6 @@
 
 - **Levene _F-stat_Anova_Tukey**.ipynb - по результату двух тестов проверить гипотезы, проверить статистически различия
 
-- **regression_analysis_exercise**.ipynb
+- **regression_analysis_exercise**.ipynb 
+
+tasks on stats
