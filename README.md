@@ -16,6 +16,8 @@
 
 - **Levene _F-stat_Anova_Tukey**.ipynb - по результату двух тестов проверить гипотезы, проверить статистически различия
 
-- **regression_analysis_exercise**.ipynb 
+- **regression_analysis_exercise**.ipynb - прогнозирование, исследование модели  описывающей данные
+
+- **prod_analytics_CR_Сohort_heatmap**.ipynb - анализ поведения пользователей, оценка эффективности каналов их привлечения
 
 tasks on stats
